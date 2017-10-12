@@ -28,7 +28,7 @@ $(document).ready(function() {
   if (diff < 0) {
       $("#preview").hide();
       $(".clock-container").hide();
-      document.getElementById("intro").innerHTML = "Good Luck J@m3s#!";
+      document.getElementById("intro").innerHTML = "Good Luck J@m3$#!";
       $("div.container").toggleClass("previewing");
   }
 });
